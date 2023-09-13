@@ -5,5 +5,5 @@
 - Daniel Nava Mondragón - A01661649
 - José Francisco Lara Delgado - A01662659
 
-Actividad Evaluable.
-Obtencion de datos.
+## Actividad Evaluable.
+- Obtencion de datos.
