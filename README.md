@@ -6,4 +6,5 @@
 - José Francisco Lara Delgado - A01662659
 
 ## Actividad Evaluable.
-- Obtencion de datos.
+- Obtencion de datos: Obtenciondedatos.ipynb
+- Patrones con K-means: 
