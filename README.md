@@ -7,4 +7,4 @@
 
 ## Actividad Evaluable.
 - Obtencion de datos: Obtenciondedatos.ipynb
-- Patrones con K-means: 
+- Patrones con K-means: Patrones_con_K_means_y_covid.ipynb
