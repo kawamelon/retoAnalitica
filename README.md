@@ -8,3 +8,4 @@
 ## Actividades Evaluable.
 - Obtencion de datos: Obtenciondedatos.ipynb
 - Patrones con K-means: Patrones_con_K_means_y_covid.ipynb
+- Mapas de calor y boxplots: Mapas_de_calor_y_boxplots.ipynb
